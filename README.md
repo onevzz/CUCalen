@@ -42,11 +42,11 @@ because it recognizes beta versions as latest. The way semver works is different
 - v2.2.1 [GODMODE-WITH-SCRIPT] introduces a script to help with creating the frontend.yml file
 - v2.3.0 [BAZOOKA] removed sigstore/cosign integration because of it being too much of a hassle for us
 
-### Version 3 (3.0.0 and beyond) (GHCL Version)
+### Version 3 (3.0.0 and beyond) (GHCR Version)
 
-- GHCL stands for "GitHub Container Registry"
-- v3.0.0 [GODMODE] same with v2.2.0 except that it pushes to GHCL rather than Docker Hub
-- v3.1.0 [BAZOOKA] same with v2.3.0 except that it pushes to GHCL rather than Docker Hub
+- GHCR stands for "GitHub Container Registry"
+- v3.0.0 [GODMODE] same with v2.2.0 except that it pushes to GHCR rather than Docker Hub
+- v3.1.0 [BAZOOKA] same with v2.3.0 except that it pushes to GHCR rather than Docker Hub
 - v3.2.0 [SANE-SEMVER] the first sane version since OPTIMIZED, utilizing Semantic Versioning
 - v3.2.1 [SANE-TAG] like v3.2.0 but instead of utilizing semver, it just tags the packages using the corresponding git tag
 
