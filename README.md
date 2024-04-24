@@ -14,10 +14,7 @@ Also because "Bazooka" is one funny word, at least to me.
 
 ## Something to note
 
-1) All Docker Images prior to the release of **[BAZOOKA]** was deleted.
-
-- **v2.3.0** for Version 2 (DOCKER HUB VERSION) [BAZOOKA]
-- **v3.1.0** for Version 3 (GHCR VERSION) [BAZOOKA]
+1) All Images and Packages generated throughout this endeavour was deleted.
 
 2) All GitHub Action Logs prior to firing the **BAZOOKA (commit 4e329f0)** was also deleted.
 
